@@ -1,0 +1,188 @@
+2015-06-30 12:02:21.155 m-Power YOUth[3439:130376] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Data/Application/86EADDFF-BA67-479E-BA74-0E6221A434AA/Library/Cookies/Cookies.binarycookies
+2015-06-30 12:02:21.258 m-Power YOUth[3439:130376] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-30 12:02:21.258 m-Power YOUth[3439:130376] Multi-tasking -> Device: YES, App: YES
+2015-06-30 12:02:21.263 m-Power YOUth[3439:130376] Unlimited access to network resources
+2015-06-30 12:02:21.268 m-Power YOUth[3439:130376] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-30 12:02:21.489 m-Power YOUth[3439:130376] [CDVTimer][splashscreen] 127.139032ms
+2015-06-30 12:02:21.497 m-Power YOUth[3439:130376] [CDVTimer][statusbar] 7.779002ms
+2015-06-30 12:02:21.497 m-Power YOUth[3439:130376] [CDVTimer][TotalPluginStartup] 136.332989ms
+2015-06-30 12:02:21.777 m-Power YOUth[3439:130376] Resetting plugins due to page load.
+2015-06-30 12:02:22.241 m-Power YOUth[3439:130376] Finished load of: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Bundle/Application/F2F148FC-279F-450F-B06E-EA71C6713D45/m-Power%20YOUth.app/www/index.html
+2015-06-30 12:03:57.988 m-Power YOUth[5278:133770] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Data/Application/1447D6C5-62D1-47BE-9795-9E61CDB2BCA2/Library/Cookies/Cookies.binarycookies
+2015-06-30 12:03:58.076 m-Power YOUth[5278:133770] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-30 12:03:58.076 m-Power YOUth[5278:133770] Multi-tasking -> Device: YES, App: YES
+2015-06-30 12:03:58.079 m-Power YOUth[5278:133770] Unlimited access to network resources
+2015-06-30 12:03:58.082 m-Power YOUth[5278:133770] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-30 12:03:58.188 m-Power YOUth[5278:133770] [CDVTimer][splashscreen] 25.783002ms
+2015-06-30 12:03:58.192 m-Power YOUth[5278:133770] [CDVTimer][statusbar] 3.704011ms
+2015-06-30 12:03:58.192 m-Power YOUth[5278:133770] [CDVTimer][TotalPluginStartup] 29.756963ms
+2015-06-30 12:03:58.254 m-Power YOUth[5278:133770] Resetting plugins due to page load.
+2015-06-30 12:03:58.405 m-Power YOUth[5278:133770] Finished load of: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Bundle/Application/3F00ADEA-0B62-4426-BB50-015E07607EF1/m-Power%20YOUth.app/www/index.html
+2015-06-30 12:08:31.975 m-Power YOUth[6306:137250] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Data/Application/BEF4EABE-B2FD-47CA-80DB-7EAEB8D15321/Library/Cookies/Cookies.binarycookies
+2015-06-30 12:08:32.342 m-Power YOUth[6306:137250] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-30 12:08:32.342 m-Power YOUth[6306:137250] Multi-tasking -> Device: YES, App: YES
+2015-06-30 12:08:32.364 m-Power YOUth[6306:137250] Unlimited access to network resources
+2015-06-30 12:08:32.375 m-Power YOUth[6306:137250] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-30 12:08:33.073 m-Power YOUth[6306:137250] [CDVTimer][splashscreen] 224.916041ms
+2015-06-30 12:08:33.078 m-Power YOUth[6306:137250] [CDVTimer][statusbar] 4.202008ms
+2015-06-30 12:08:33.078 m-Power YOUth[6306:137250] [CDVTimer][TotalPluginStartup] 230.512977ms
+2015-06-30 12:08:33.261 m-Power YOUth[6306:137250] Resetting plugins due to page load.
+2015-06-30 12:08:33.552 m-Power YOUth[6306:137250] Finished load of: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Bundle/Application/81AB7FAC-B047-404A-8159-F4B38D9C9278/m-Power%20YOUth.app/www/index.html
+2015-06-30 12:09:14.601 m-Power YOUth[7225:138943] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Data/Application/AB8AF072-019E-4222-8045-999A2D26C300/Library/Cookies/Cookies.binarycookies
+2015-06-30 12:09:14.756 m-Power YOUth[7225:138943] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-30 12:09:14.756 m-Power YOUth[7225:138943] Multi-tasking -> Device: YES, App: YES
+2015-06-30 12:09:14.759 m-Power YOUth[7225:138943] Unlimited access to network resources
+2015-06-30 12:09:14.763 m-Power YOUth[7225:138943] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-30 12:09:14.901 m-Power YOUth[7225:138943] [CDVTimer][splashscreen] 18.940032ms
+2015-06-30 12:09:14.907 m-Power YOUth[7225:138943] [CDVTimer][statusbar] 6.182015ms
+2015-06-30 12:09:14.908 m-Power YOUth[7225:138943] [CDVTimer][TotalPluginStartup] 25.566041ms
+2015-06-30 12:09:15.010 m-Power YOUth[7225:138943] Resetting plugins due to page load.
+2015-06-30 12:09:15.152 m-Power YOUth[7225:138943] Finished load of: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Bundle/Application/4EB8A3E9-2E69-4035-B6CE-23ED3530003E/m-Power%20YOUth.app/www/index.html
+2015-06-30 12:09:44.214 m-Power YOUth[8143:140535] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Data/Application/8056868C-F6C3-470B-8619-542DDE7F1F47/Library/Cookies/Cookies.binarycookies
+2015-06-30 12:09:44.347 m-Power YOUth[8143:140535] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-30 12:09:44.347 m-Power YOUth[8143:140535] Multi-tasking -> Device: YES, App: YES
+2015-06-30 12:09:44.350 m-Power YOUth[8143:140535] Unlimited access to network resources
+2015-06-30 12:09:44.352 m-Power YOUth[8143:140535] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-30 12:09:44.475 m-Power YOUth[8143:140535] [CDVTimer][splashscreen] 19.885004ms
+2015-06-30 12:09:44.481 m-Power YOUth[8143:140535] [CDVTimer][statusbar] 6.142974ms
+2015-06-30 12:09:44.481 m-Power YOUth[8143:140535] [CDVTimer][TotalPluginStartup] 26.473999ms
+2015-06-30 12:09:44.588 m-Power YOUth[8143:140535] Resetting plugins due to page load.
+2015-06-30 12:09:44.740 m-Power YOUth[8143:140535] Finished load of: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Bundle/Application/4AAA4522-FA68-43E3-9E57-69E52DAAACDB/m-Power%20YOUth.app/www/index.html
+2015-06-30 12:09:52.071 m-Power YOUth[8143:140667] Terminating since there is no system app.
+2015-06-30 12:12:04.016 m-Power YOUth[9061:142591] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Data/Application/CF4FFDC0-29FF-4EA4-A8EA-3EB2C2807114/Library/Cookies/Cookies.binarycookies
+2015-06-30 12:12:04.154 m-Power YOUth[9061:142591] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-30 12:12:04.154 m-Power YOUth[9061:142591] Multi-tasking -> Device: YES, App: YES
+2015-06-30 12:12:04.157 m-Power YOUth[9061:142591] Unlimited access to network resources
+2015-06-30 12:12:04.159 m-Power YOUth[9061:142591] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-30 12:12:04.252 m-Power YOUth[9061:142591] [CDVTimer][splashscreen] 14.396012ms
+2015-06-30 12:12:04.256 m-Power YOUth[9061:142591] [CDVTimer][statusbar] 3.557980ms
+2015-06-30 12:12:04.256 m-Power YOUth[9061:142591] [CDVTimer][TotalPluginStartup] 18.217027ms
+2015-06-30 12:12:04.335 m-Power YOUth[9061:142591] Resetting plugins due to page load.
+2015-06-30 12:12:04.486 m-Power YOUth[9061:142591] Finished load of: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Bundle/Application/AF9B349C-9BA8-4C12-8558-02654631E15D/m-Power%20YOUth.app/www/index.html
+2015-06-30 12:14:04.948 m-Power YOUth[9981:144628] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Data/Application/294F36C7-44BA-4C00-8BB5-F24C4A62A9AD/Library/Cookies/Cookies.binarycookies
+2015-06-30 12:14:05.079 m-Power YOUth[9981:144628] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-30 12:14:05.080 m-Power YOUth[9981:144628] Multi-tasking -> Device: YES, App: YES
+2015-06-30 12:14:05.082 m-Power YOUth[9981:144628] Unlimited access to network resources
+2015-06-30 12:14:05.084 m-Power YOUth[9981:144628] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-30 12:14:05.210 m-Power YOUth[9981:144628] [CDVTimer][splashscreen] 19.205987ms
+2015-06-30 12:14:05.216 m-Power YOUth[9981:144628] [CDVTimer][statusbar] 5.778968ms
+2015-06-30 12:14:05.216 m-Power YOUth[9981:144628] [CDVTimer][TotalPluginStartup] 25.407016ms
+2015-06-30 12:14:05.331 m-Power YOUth[9981:144628] Resetting plugins due to page load.
+2015-06-30 12:14:05.479 m-Power YOUth[9981:144628] Finished load of: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Bundle/Application/69D334F6-F952-4D70-BA41-64D62C2559C7/m-Power%20YOUth.app/www/index.html
+2015-06-30 12:14:43.891 m-Power YOUth[10856:145959] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Data/Application/DA2BF839-6ADA-4DA4-8B6A-8B7778804BD9/Library/Cookies/Cookies.binarycookies
+2015-06-30 12:14:43.990 m-Power YOUth[10856:145959] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-30 12:14:43.991 m-Power YOUth[10856:145959] Multi-tasking -> Device: YES, App: YES
+2015-06-30 12:14:43.995 m-Power YOUth[10856:145959] Unlimited access to network resources
+2015-06-30 12:14:43.998 m-Power YOUth[10856:145959] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-30 12:14:44.100 m-Power YOUth[10856:145959] [CDVTimer][splashscreen] 15.204012ms
+2015-06-30 12:14:44.104 m-Power YOUth[10856:145959] [CDVTimer][statusbar] 3.536999ms
+2015-06-30 12:14:44.104 m-Power YOUth[10856:145959] [CDVTimer][TotalPluginStartup] 19.017994ms
+2015-06-30 12:14:44.183 m-Power YOUth[10856:145959] Resetting plugins due to page load.
+2015-06-30 12:14:44.338 m-Power YOUth[10856:145959] Finished load of: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Bundle/Application/F5D31FCC-6E9D-49A6-A19E-D962E52601C2/m-Power%20YOUth.app/www/index.html
+2015-06-30 12:16:11.147 m-Power YOUth[11733:147620] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Data/Application/C44FE650-7E93-4426-B010-EBFFC6A6F26C/Library/Cookies/Cookies.binarycookies
+2015-06-30 12:16:11.256 m-Power YOUth[11733:147620] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-30 12:16:11.256 m-Power YOUth[11733:147620] Multi-tasking -> Device: YES, App: YES
+2015-06-30 12:16:11.258 m-Power YOUth[11733:147620] Unlimited access to network resources
+2015-06-30 12:16:11.261 m-Power YOUth[11733:147620] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-30 12:16:11.361 m-Power YOUth[11733:147620] [CDVTimer][splashscreen] 14.815032ms
+2015-06-30 12:16:11.365 m-Power YOUth[11733:147620] [CDVTimer][statusbar] 3.591001ms
+2015-06-30 12:16:11.365 m-Power YOUth[11733:147620] [CDVTimer][TotalPluginStartup] 18.685043ms
+2015-06-30 12:16:11.443 m-Power YOUth[11733:147620] Resetting plugins due to page load.
+2015-06-30 12:16:11.597 m-Power YOUth[11733:147620] Finished load of: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Bundle/Application/5F5137A1-10D1-4DA9-A750-016B8AEA3465/m-Power%20YOUth.app/www/index.html
+2015-06-30 12:16:58.354 m-Power YOUth[12605:148936] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Data/Application/C147CD4D-05A1-41E6-9DC8-5D34D8ED5D8D/Library/Cookies/Cookies.binarycookies
+2015-06-30 12:16:58.442 m-Power YOUth[12605:148936] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-30 12:16:58.442 m-Power YOUth[12605:148936] Multi-tasking -> Device: YES, App: YES
+2015-06-30 12:16:58.444 m-Power YOUth[12605:148936] Unlimited access to network resources
+2015-06-30 12:16:58.447 m-Power YOUth[12605:148936] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-30 12:16:58.550 m-Power YOUth[12605:148936] [CDVTimer][splashscreen] 16.060054ms
+2015-06-30 12:16:58.556 m-Power YOUth[12605:148936] [CDVTimer][statusbar] 5.676031ms
+2015-06-30 12:16:58.556 m-Power YOUth[12605:148936] [CDVTimer][TotalPluginStartup] 22.027016ms
+2015-06-30 12:16:58.633 m-Power YOUth[12605:148936] Resetting plugins due to page load.
+2015-06-30 12:16:58.783 m-Power YOUth[12605:148936] Finished load of: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Bundle/Application/0074EDF2-0411-4437-AC7B-09954E5A682B/m-Power%20YOUth.app/www/index.html
+2015-06-30 12:18:31.266 m-Power YOUth[13480:150582] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Data/Application/1AA6D424-135B-4D00-BC27-9C5221303905/Library/Cookies/Cookies.binarycookies
+2015-06-30 12:18:31.375 m-Power YOUth[13480:150582] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-30 12:18:31.376 m-Power YOUth[13480:150582] Multi-tasking -> Device: YES, App: YES
+2015-06-30 12:18:31.378 m-Power YOUth[13480:150582] Unlimited access to network resources
+2015-06-30 12:18:31.381 m-Power YOUth[13480:150582] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-30 12:18:31.480 m-Power YOUth[13480:150582] [CDVTimer][splashscreen] 14.120042ms
+2015-06-30 12:18:31.483 m-Power YOUth[13480:150582] [CDVTimer][statusbar] 3.584981ms
+2015-06-30 12:18:31.483 m-Power YOUth[13480:150582] [CDVTimer][TotalPluginStartup] 17.973959ms
+2015-06-30 12:18:31.561 m-Power YOUth[13480:150582] Resetting plugins due to page load.
+2015-06-30 12:18:31.714 m-Power YOUth[13480:150582] Finished load of: file:///Users/tashi/Library/Developer/CoreSimulator/Devices/CC729880-09DC-407E-8877-6F83ED914F8E/data/Containers/Bundle/Application/26F83308-F75C-4C2D-80B7-4F22D18C1BAB/m-Power%20YOUth.app/www/index.html
